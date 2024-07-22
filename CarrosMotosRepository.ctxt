@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=CarrosMotosRepository
+comment1.params=database
+comment1.target=CarrosMotosRepository(Database)
+comment2.params=database
+comment2.target=void\ setDatabase(Database)
+comment3.params=carrosMoto
+comment3.target=CarrosMotos\ create(CarrosMotos)
+comment4.params=carrosMoto
+comment4.target=void\ update(CarrosMotos)
+comment5.params=carrosMoto
+comment5.target=void\ delete(CarrosMotos)
+comment6.params=id
+comment6.target=CarrosMotos\ loadFromId(int)
+comment7.params=
+comment7.target=java.util.List\ loadAll()
+numComments=8
